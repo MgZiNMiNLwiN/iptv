@@ -187,10 +187,10 @@ http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="VIP Sports",BEIN SP Serie A
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="VIP Sports",UCL TV1
-
-#EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="VIP Sports",UCL TV2 
-
+#EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://www.linkpicture.com/q/Champions_TV_1.png" group-title="VIP Sports",Champion TV1
+https://zonphyokhant.github.io/iptv/championtv1.m3u8
+#EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://www.linkpicture.com/q/Champions_TV_2.png" group-title="VIP Sports",Champion TV2 
+https://zonphyokhant.github.io/iptv/championtv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="VIP Sports",Premier League1 SD
 
