@@ -98,7 +98,13 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sports",NBCSN HD
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NDc6NDQgQU0maGFzaF92YWx1ZT1mTnM5YU93ZmtwZUJNcDhTdFhKbHhBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png" group-title="Sports",DIEMA SPORT2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/ziggo_sport_nl_select.png" group-title="Sports",Ziggo Sport Select
+http://stream.tvtap.live:8081/live/nl-ziggoselect.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NTk6MTMgUE0maGFzaF92YWx1ZT13Q3lZWWltbTA5TFlHQTMvL3ZjL3JRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/tvchannels/nl/Ziggo-Sport-Voetbal.html" group-title="Sports",Ziggo Sport Voetbal
+http://stream.tvtap.live:8081/live/nl-ziggovoetbal.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6MzQ6NTQgQU0maGFzaF92YWx1ZT1XcTE5WGlTeXE4dWJUNE5BZzFOMjN3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/images_70.png" group-title="Sports",Laliga Tv Bar
+https://zonphyokhant.github.io/iptv/laligatv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-ukraine-ie-ua.png" group-title="Sports",Setanta Sports HD
 https://95-213-224-181.livesports24.online/setantaukraine.m3u8
