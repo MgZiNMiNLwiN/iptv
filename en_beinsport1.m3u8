@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8?hubtvapp.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=240000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8?hubtvapp.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=440000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8?hubtvapp.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=640x360,CODECS="avc1.42e00a,mp4a.40.2"
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8?hubtvapp.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=64000,CODECS="mp4a.40.5"
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8?hubtvapp.m3u8
