@@ -182,7 +182,6 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://0201.nccdn.net/1_2/000/000/0fa/21f/5a9ef6596b2ff.jpeg" group-title="VIP Sports",VIP SPORT
-https://livecloud.akamaized.net/band/lip2_de/fnmss0011/UiSA1cEZvKFeCTyq4ysA4Uj8KXWEINqgTvUzIicwhuAfApFWYKMg1n6L3N2HhxOLkPemy6qFqHYuF5HxQFJXDHRbzmUbtMHDt-sWXy8AcvhxWsX7lLg/hdntl=exp=1629584844~acl=%2fband%2f*%2f*%2fUiSA1cEZvKFeCTyq4ysA4Uj8KXWEINqgTvUzIicwhuAfApFWYKMg1n6L3N2HhxOLkPemy6qFqHYuF5HxQFJXDHRbzmUbtMHDt-sWXy8AcvhxWsX7lLg%2f*~data=hdntl~hmac=f82e2bdff7727a5c586a88570c57f8cc295974991ef5584dde79991ce0317408/chunklist_360P.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.jpg" group-title="VIP Sports",SKYNET SPORT2
 
@@ -204,9 +203,9 @@ http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://www.linkpicture.com/q/Champions_TV_1.png" group-title="VIP Sports",Champion TV1
-https://zonphyokhant.github.io/iptv/championtv1.m3u8
+
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://www.linkpicture.com/q/Champions_TV_2.png" group-title="VIP Sports",Champion TV2 
-https://zonphyokhant.github.io/iptv/championtv2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="VIP Sports",Premier League1 SD
 
