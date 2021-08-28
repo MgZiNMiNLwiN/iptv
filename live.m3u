@@ -220,13 +220,13 @@ http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="VIP Sports",ASTRO SUPERSPORTS 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6708
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="VIP Sports",ASTRO SUPERSPORTS 2
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6710
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="VIP Sports",ASTRO SUPERSPORTS 3 
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6711
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="VIP Sports",ASTRO SUPERSPORTS 4 
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc/624850/624850/6712
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="VIP Sports",SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
