@@ -180,7 +180,10 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://0201.nccdn.net/1_2/000/000/0fa/21f/5a9ef6596b2ff.jpeg" group-title="VIP Sports",VIP SPORT
+#EXTINF:-1 tvg-logo="https://0201.nccdn.net/1_2/000/000/0fa/21f/5a9ef6596b2ff.jpeg" group-title="VIP Sports",VIP SPORT1 SD
+https://d8d0186ycf441.cloudfront.net/out/v1/4c82cffd4cbe4c64a712286190d85659/index_3.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&audio_mbr=1&t=1630246588101
+#EXTINF:-1 tvg-logo="https://0201.nccdn.net/1_2/000/000/0fa/21f/5a9ef6596b2ff.jpeg" group-title="VIP Sports",VIP SPORT2 HD
+https://d8d0186ycf441.cloudfront.net/out/v1/4c82cffd4cbe4c64a712286190d85659/index_3.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1630246890552&abd=1
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.jpg" group-title="VIP Sports",SKYNET SPORT2
 
