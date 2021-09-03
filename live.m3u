@@ -214,11 +214,11 @@ http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="VIP Sports",Premier League2 SD
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="VIP Sports",Premier League1 HD
-http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="VIP Sports",Premier League2 HD
-http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
+https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" group-title="VIP Sports",Premier League3 HD
-http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
+https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="VIP Sports",ASTRO SUPERSPORTS 1
@@ -231,15 +231,15 @@ http://iptv.tvmalaysia.cc/624850/624850/6711
 http://iptv.tvmalaysia.cc/624850/624850/6712
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="VIP Sports",SPORT TV1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_2.png" group-title="VIP Sports",SPORT TV2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png" group-title="VIP Sports",SPORT TV3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png" group-title="VIP Sports",SPORT TV4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png" group-title="VIP Sports",SPORT TV5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png" group-title="VIP Sports",Skysporrt Football
 http://stream.tvtap.live:8081/live/it-skysport-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDY6MzMgUE0maGFzaF92YWx1ZT1WaFBmZXplc3JsSmNDcDJwZnltY3NnPT0mdmFsaWRtaW51dGVzPTIw
@@ -249,9 +249,9 @@ http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDc6MzYgUE0maGFzaF92YWx1ZT13c0wyZ213S2tIMGlUWFUwK0VHQ3lBPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="VIP Sports",BT SPORT1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="VIP Sports",BT SPORT2
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="VIP Sports",BT SPORT3
 http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTA6MjggQU0maGFzaF92YWx1ZT1QbWtLbHRpclJkMHBEVmRyNjkvaFVnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-espn-uk.png" group-title="VIP Sports",BT SPORT ESPN
