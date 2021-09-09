@@ -109,14 +109,13 @@ https://zonphyokhant.github.io/iptv/laligatv.m3u8
 https://95-213-224-181.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1 tvg-logo="http://ifavorite.ru/images/sport7/-5.jpg" group-title="Sports",Belarus 5
 https://95-213-224-180.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 tvg-logo="https://www.digitalsky.com.kh/uploads/videos/OneTV-Sports-11_logo_04_06_2018_10.jpg" group-title="Sports",ONETV SPORT11
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport1.png",True Sport HD1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport2.png",True Sport HD2
-https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport3.png",True Sport HD3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport4.png",True Sport HD4
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport1_hd.png",Super Sport HD1
@@ -137,14 +136,14 @@ http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
 #EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pp_tv_hd_th.png" group-title="Sports",PPTV_HD
-https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PPTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="Sports",Fox Sport 1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="Sports",Fox Sport 2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="Sports",Fox Sport 3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="Sports",StarSports Select 1HD
 
@@ -170,20 +169,20 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/chelsea_tv.png" group-title="Sports",ChelseaTV
-https://www.livedoomovie.com/02_ChelseaTV_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_ChelseaTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png" group-title="Sports",MUTV
 http://77.83.117.60:8888/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lfc-tv-uk.png" group-title="Sports",LFCTV
-https://www.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="Sports",Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://0201.nccdn.net/1_2/000/000/0fa/21f/5a9ef6596b2ff.jpeg" group-title="VIP Sports",VIP SPORT1 SD
-https://d8d0186ycf441.cloudfront.net/out/v1/4c82cffd4cbe4c64a712286190d85659/index_3.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&audio_mbr=1&t=1630246588101
-#EXTINF:-1 tvg-logo="https://0201.nccdn.net/1_2/000/000/0fa/21f/5a9ef6596b2ff.jpeg" group-title="VIP Sports",VIP SPORT2 HD
-https://d8d0186ycf441.cloudfront.net/out/v1/4c82cffd4cbe4c64a712286190d85659/index_3.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1630246890552&abd=1
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT1
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT2
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.jpg" group-title="VIP Sports",SKYNET SPORT2
 
@@ -198,11 +197,11 @@ https://d8d0186ycf441.cloudfront.net/out/v1/4c82cffd4cbe4c64a712286190d85659/ind
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/96/81/24/96812444d300f3f40db93dd6280f2131.jpg" group-title="VIP Sports",SKYNET SPORT HD
 
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="VIP Sports",BEIN SP LaLiga
-http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/87_copy_76x76.png" group-title="VIP Sports",LaLiga Live
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="VIP Sports",BEIN SP Serie A
-http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/53_copy_76x76.png" group-title="VIP Sports",Ligue1 Live
+http://31.220.41.88:8081/live/es-bein.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://www.linkpicture.com/q/Champions_TV_1.png" group-title="VIP Sports",Champion TV1
 
@@ -214,11 +213,11 @@ http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="VIP Sports",Premier League2 SD
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="VIP Sports",Premier League1 HD
-https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="VIP Sports",Premier League2 HD
-https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" group-title="VIP Sports",Premier League3 HD
-https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="VIP Sports",ASTRO SUPERSPORTS 1
@@ -231,15 +230,15 @@ http://iptv.tvmalaysia.cc/624850/624850/6711
 http://iptv.tvmalaysia.cc/624850/624850/6712
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="VIP Sports",SPORT TV1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_2.png" group-title="VIP Sports",SPORT TV2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png" group-title="VIP Sports",SPORT TV3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png" group-title="VIP Sports",SPORT TV4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png" group-title="VIP Sports",SPORT TV5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png" group-title="VIP Sports",Skysporrt Football
 http://stream.tvtap.live:8081/live/it-skysport-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDY6MzMgUE0maGFzaF92YWx1ZT1WaFBmZXplc3JsSmNDcDJwZnltY3NnPT0mdmFsaWRtaW51dGVzPTIw
@@ -249,9 +248,9 @@ http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDc6MzYgUE0maGFzaF92YWx1ZT13c0wyZ213S2tIMGlUWFUwK0VHQ3lBPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="VIP Sports",BT SPORT1
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="VIP Sports",BT SPORT2
-https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="VIP Sports",BT SPORT3
 http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTA6MjggQU0maGFzaF92YWx1ZT1QbWtLbHRpclJkMHBEVmRyNjkvaFVnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-espn-uk.png" group-title="VIP Sports",BT SPORT ESPN
@@ -331,11 +330,11 @@ https://95-213-224-179.livesports24.online/rumatcharena.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_planeta.png" group-title="VIP Sports",Match! Country
 https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png" group-title="BeinSport SD",BeinSport1 VIP
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="BeinSport SD",Bein premium-1
 https://mgzinminlwin.github.io/360p/pm-bein1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hk.png" group-title="BeinSport SD",BeinSport2 VIP
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BeinSport SD",Bein premium-2
 https://mgzinminlwin.github.io/360p/pm-bein2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hk.png" group-title="BeinSport SD",BeinSport3 VIP
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="BeinSport SD",Bein premium-3
 https://mgzinminlwin.github.io/360p/pm-bein3.m3u8
 
 
@@ -363,11 +362,11 @@ https://mgzinminlwin.github.io/360p/bein7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_12_hd.png" group-title="BeinSport SD",BeinSport12
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png" group-title="BeinSport HD",BeinSport 1VIP
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="BeinSport HD",Bein Premium-1
 https://mgzinminlwin.github.io/720p/pm-Bein1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hk.png" group-title="BeinSport HD",BeinSport 2VIP
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BeinSport HD",Bein Premium-2
 https://mgzinminlwin.github.io/720p/pm-Bein2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hk.png" group-title="BeinSport HD",BeinSport 3VIP
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="BeinSport HD",Bein Premium-3
 https://mgzinminlwin.github.io/720p/pm-Bein3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png" group-title="BeinSport HD",BeinSport 1
