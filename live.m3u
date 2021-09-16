@@ -150,13 +150,13 @@ http://178.175.132.170:8888/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b0ITbckAy0I/maxresdefault.jpg" group-title="Sports",StarSports Select 2HD
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Sports",Sony Ten 1HD
-
+http://jupiter.bdcabletv.com/ENC-19/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Sports",Sony Ten 2HD
-
+http://jupiter.bdcabletv.com/ENC-7/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Sports",Sony Ten 3HD
-
+https://cdn.nowhdtime.com.bd/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
-
+https://cdn.nowhdtime.com.bd/SonySix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports",UFC FIGHT
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports",FIGHT TIME
