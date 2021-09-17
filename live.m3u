@@ -150,13 +150,13 @@ http://starlive.hjkm.info:11991/junosafe/starsportsselect1/playlist.m3u8?wmsAuth
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b0ITbckAy0I/maxresdefault.jpg" group-title="Sports",StarSports Select 2
 http://starlive.hjkm.info:11991/junosafe/starsportsselect2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDIxIDU6MDY6MDcgUE0maGFzaF92YWx1ZT13K0xTZ0lsaFZZUzhpTnphaUtwZFRRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Sports",Sony Ten 1HD
-http://jupiter.bdcabletv.com/ENC-19/video.m3u8
+http://livezer0.hjkm.info:11991/neptune/sonyten1hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDIxIDU6MTg6MzggUE0maGFzaF92YWx1ZT1nbWw5VmxLWjFHQ2ZCWWZrdkVoM25nPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Sports",Sony Ten 2HD
-http://jupiter.bdcabletv.com/ENC-7/video.m3u8
+http://livezer0.hjkm.info:11991/neptune/sonyten2hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDIxIDU6MTk6NTYgUE0maGFzaF92YWx1ZT1MOEl5TXg0VDcraEpwRW5oSjdtcVpRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Sports",Sony Ten 3HD
-https://cdn.nowhdtime.com.bd/SonyTen3/tracks-v1a1/mono.m3u8
+http://livezer0.hjkm.info:11991/juno/ten3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDIxIDU6MjA6MzYgUE0maGFzaF92YWx1ZT0xcEhWQzhqYzZabkI4cndVUm0wdk9nPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
-https://cdn.nowhdtime.com.bd/SonySix/tracks-v1a1/mono.m3u8
+http://livezer0.hjkm.info:11991/neptune/sonysixhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDIxIDU6MjI6MTEgUE0maGFzaF92YWx1ZT12VjZjUHJQZTViQzBEMUd6cnoxRGZRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports",UFC FIGHT
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports",FIGHT TIME
